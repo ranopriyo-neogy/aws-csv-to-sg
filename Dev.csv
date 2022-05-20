@@ -1,0 +1,3 @@
+GroupId,GroupName,Type,IpProtocol,FromPort,ToPort,IpRanges,Ipv6Ranges,PrefixListIds,UserIdGroupPairs
+sg-0034,SG-PIM,Inbound/Ingress,tcp,80,80,10.1.2.0/8,,,
+sg-0034,SG-PIM,Inbound/Ingress,tcp,80,80,10.10.4.20/32,,,
