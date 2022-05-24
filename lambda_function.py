@@ -37,7 +37,7 @@ def csvtosg():
                         'IpRanges': [
                             {
                                 'CidrIp': ipranges,
-                                'Description': 'Test',
+                                'Description': 'NA',
                             },
                         ],
                         'ToPort': int(toport),
@@ -56,7 +56,7 @@ def csvtosg():
                         'IpRanges': [
                             {
                                 'CidrIp': ipranges,
-                                'Description': 'Test',
+                                'Description': 'NA',
                             },
                         ],
                         'ToPort': int(toport),
